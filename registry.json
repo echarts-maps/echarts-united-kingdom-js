@@ -1,0 +1,12 @@
+{
+    "FILE_MAP": {
+        "westminster_2016_uk": "westminster_2016_uk"
+    },
+    "PINYIN_MAP": {
+        "英国选区2016": "westminster_2016_uk"
+    },
+    "JUPYTER_URL": "/nbextensions/echarts-united-kingdom-js",
+    "JUPYTER_ENTRY": "echarts-united-kingdom-js/main",
+    "JS_FOLDER": "echarts-united-kingdom-js",
+    "GITHUB_URL": "https://echarts-maps.github.com/echarts-united-kingdom-js/echarts-united-kingdom-js"
+}

@@ -2,6 +2,10 @@
 
 Digital UK maps are made in compressed geojson format specifically for echarts.
 
+# Features
+
+Comparing with standard geojson files, echarts compress tool could do lossless compression. It was able to compress 280MB file into 10MB.
+
 # Credit
 
 The digital boundaries and reference maps was derived from Office of National Statistics.
@@ -11,6 +15,7 @@ Under the terms of the Open Government Licence and UK Government Licensing Frame
 # License
 
 Contains National Statistics data © Crown copyright and database right [2018]
+
 Contains OS data © Crown copyright and database right [2018]
 
 And any further sub-licenses MUST retain this attribution. For more legal terms, please visit [Office for National Statistics on Licences](https://www.ons.gov.uk/methodology/geography/licences)
