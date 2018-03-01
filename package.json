@@ -1,0 +1,21 @@
+{
+    "name": "echarts-united-kingdom-js",
+    "version": "0.0.1",
+    "description": "Packages all js based geojson related to United Kingdom for echarts",
+    "main": "echarts-united-kingdom-js/main.js",
+    "scripts": {
+        "test": ""
+    },
+    "keywords": [
+        "geojson"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/echarts/echarts-united-kingdom-js.git"
+    },
+    "author": "C. W. <wangc_2011@hotmail.com> (https://github.com/chfw)",
+    "license": "Contains National Statistics data © Crown copyright and database right [2018], Contains OS data © Crown copyright and database right [2018]",
+    "devDependencies": {
+        "echarts-mapmaker": "^1.0.10"
+    }
+}

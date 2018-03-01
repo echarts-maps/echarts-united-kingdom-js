@@ -3,7 +3,7 @@
         "westminster_2016_uk": "westminster_2016_uk"
     },
     "PINYIN_MAP": {
-        "英国选区2016": "westminster_2016_uk"
+        "UK_electoral_2016": "westminster_2016_uk"
     },
     "JUPYTER_URL": "/nbextensions/echarts-united-kingdom-js",
     "JUPYTER_ENTRY": "echarts-united-kingdom-js/main",
