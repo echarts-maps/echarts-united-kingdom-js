@@ -2,7 +2,7 @@
 
 Digital UK maps are made in compressed geojson format specifically for echarts.
 
-![demo](https://echarts-maps.github.com/echarts-united-kingdom-js/electoral_results_2017_uk.gif)
+![demo](https://echarts-maps.github.io/echarts-united-kingdom-js/electoral_results_2017_uk.gif)
 
 # Features
 
