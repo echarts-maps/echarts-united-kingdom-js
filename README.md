@@ -8,6 +8,11 @@ Digital UK maps are made in compressed geojson format specifically for echarts.
 
 Comparing with standard geojson files, echarts could do lossless compression. Take Westminster map as an example, the un-compressed size is as big as 188MB  and the compressed file is of 9.9MB.
 
+# Gallery
+
+1. [the Results of 2017 General Election](https://echarts-maps.github.io/echarts-united-kingdom-js/electoral_results_2017_uk.html)
+
+
 # Content
 
 | echarts reference    | origin      | 
