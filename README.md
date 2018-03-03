@@ -12,7 +12,7 @@ Comparing with standard geojson files, echarts could do lossless compression. Ta
 
 | echarts reference    | origin      | 
 | ------------- |:-------------:|
-| westminster_2016_uk | Westminster Parliamentary Constituencies December 2016 Full Clipped Boundaries in the UK ([reference](http://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2016-full-clipped-boundaries-in-the-uk)) |
+| UK_electoral_2016 | Westminster Parliamentary Constituencies December 2016 Full Clipped Boundaries in the UK ([reference](http://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2016-full-clipped-boundaries-in-the-uk)) |
 
 # Credit
 
