@@ -32,3 +32,5 @@ Contains National Statistics data © Crown copyright and database right [2018]
 Contains OS data © Crown copyright and database right [2018]
 
 And any further sub-licenses MUST retain this attribution. For more legal terms, please visit [Office for National Statistics on Licences](https://www.ons.gov.uk/methodology/geography/licences)
+
+This projects is NOT associated with official Apache ECharts (incubating) project and is independently maintained by [@chfw](https://github.com/chfw).
